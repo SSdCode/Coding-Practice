@@ -59,15 +59,15 @@
          */
 
 
-        // Solid rhombus pattern
-        /*
+// Solid rhombus pattern
+/*
              *****
             *****
            *****
           *****
          *****
 
-         */
+*/
 
 
         // Hollow rhombus pattern
