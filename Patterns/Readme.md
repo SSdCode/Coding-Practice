@@ -1,16 +1,16 @@
-        // Inverted & rotated half pyramid
-        /*
+// Inverted & rotated half pyramid
+/*
 
             *
            **
           ***
          ****
 
-         * */
+*/
 
 
-        // Inverted - half pyramid
-        /*
+// Inverted - half pyramid
+/*
 
          12345
          1234
@@ -18,11 +18,11 @@
          12
          1
 
-         * */
+*/
 
 
-        // FLOYD's Triangle pattern
-        /*
+// FLOYD's Triangle pattern
+/*
 
          1
          2 3
@@ -30,10 +30,10 @@
          7 8 9 10
          11 12 13 14 15
 
-         * */
+*/
 
-        // 0-1 triangle pattern
-        /*
+// 0-1 triangle pattern
+/*
 
          1
          01
@@ -41,11 +41,11 @@
          0101
          10101
 
-         * */
+*/
 
 
-        // Butterfly pattern
-        /*
+// Butterfly pattern
+/*
 
          *      *
          **    **
@@ -56,7 +56,7 @@
          **    **
          *      *
 
-         */
+*/
 
 
 // Solid rhombus pattern
@@ -70,8 +70,8 @@
 */
 
 
-        // Hollow rhombus pattern
-        /*
+// Hollow rhombus pattern
+/*
 
              *****
             *   *
@@ -79,22 +79,20 @@
           *   *
          *****
 
-         */
+*/
 
-        // Triangle
-
-        /*
+// Triangle
+/*
         
-                 *
-               * * *
-             * * * * *
-           * * * * * * *
+            *
+          * * *
+        * * * * *
+      * * * * * * *
 
-        */ 
+*/ 
 
-        // Diamond pattern
-
-        /*
+// Diamond pattern
+/*
 
            *
           ***
@@ -104,25 +102,23 @@
           ***
            *
 
-         * */
+*/
 
 
-        //Number pyramid pattern
-
-        /*
+//Number pyramid pattern
+/*
             1
            2 2
           3 3 3
          4 4 4 4
         5 5 5 5 5
 
-        * */
+*/
 
 
 
-        // Palindromic pattern
-
-        /*
+// Palindromic pattern
+/*
 
             1
            212
@@ -130,5 +126,5 @@
          4321234
         543212345
 
-        */
+*/
 
