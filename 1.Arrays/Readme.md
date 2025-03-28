@@ -1,17 +1,14 @@
 Basics of Arrays (Declaration, Initialization, Traversal)
 
-Reverse an Array
 
-Find Maximum and Minimum in an Array
+1. Print an array
+2. Reverse an Array
+3. Find Maximum and Minimum in an Array
+4. Move all Zeros to End
+5. Remove Duplicates from a Sorted Array
+6. Find Missing Number in an Array
+7. Find the Union and Intersection of Two Arrays
+8. Find the Leader Elements in an Array
+9. Kadane’s Algorithm (Max Subarray Sum)
 
-Move all Zeros to End
-
-Remove Duplicates from a Sorted Array
-
-Find Missing Number in an Array
-
-Find the Union and Intersection of Two Arrays
-
-Find the Leader Elements in an Array
-
-Kadane’s Algorithm (Max Subarray Sum)
+SecondLargest
