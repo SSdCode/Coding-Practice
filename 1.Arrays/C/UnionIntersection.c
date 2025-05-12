@@ -35,8 +35,8 @@ int main()
     int elementArr1 = arr1[0];
     int elementArr2 = arr2[0];
 
-    int unionn[6];
-    int intercection[12];
+    int unionn[12];
+    int intercection[6];
 
     for (int i = 0; i < 6; i++)
     {
